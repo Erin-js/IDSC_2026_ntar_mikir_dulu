@@ -6,7 +6,7 @@ This project focuses on a clinically meaningful question: **how can we reduce mi
 
 ## Project Overview
 
-Brugada syndrome is a cardiac electrical disorder associated with ventricular arrhythmias and sudden cardiac death. Its ECG pattern may be subtle, variable, and occasionally transient, which makes detection difficult in routine clinical settings. Because missed positive cases can have serious consequences, this project prioritizes **recall-oriented screening** rather than accuracy alone.
+Brugada syndrome is a cardiac electrical disorder associated with ventricular arrhythmias and sudden cardiac death. Its ECG pattern may be subtle, variable, and occasionally transient, which makes detection difficult in routine clinical settings because missed positive cases can have serious consequences, this project prioritizes **recall-oriented screening** rather than accuracy alone.
 
 The notebook compares three representation strategies:
 - **Traditional features**: clinically informed handcrafted features extracted from leads V1-V3
